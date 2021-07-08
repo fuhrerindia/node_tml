@@ -1,0 +1,11 @@
+{
+  "name": "tml",
+  "version": "1.0.0",
+  "description": "WRITE HTML WITHOUT BABEL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paurush Sinha",
+  "license": "ISC"
+}
